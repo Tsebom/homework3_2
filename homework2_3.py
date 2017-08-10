@@ -64,7 +64,7 @@ def sorting_dictionery_word(dic):
 
 
 def main():
-    """bla bla bla"""
+    """YEt_try_2"""
     file = input('Укажите имя фаила с расширением: ')
     list_word = sorting_dictionery_word(dictionery_word(six_letter(
         take_description(open_read(file)))))
